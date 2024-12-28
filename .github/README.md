@@ -3,12 +3,12 @@
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚁𝙸𝚈𝙰+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗘𝗔𝗠+𝗥𝗜𝗬𝗔)](https://github.com/ksdofficial8/Riya_music)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+ʟᴏᴠᴇ+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗘𝗔𝗠+𝗞𝗜𝗟𝗟𝗘𝗥+𝗢𝗣)](https://github.com/ksdofficial8/Riya_music)
 
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/n4vivz.jpg">
+  <img src="https://files.catbox.moe/eg6zhs.jpg">
 </p>
 
 
@@ -40,10 +40,10 @@
 
 
 <p align="center">
-<a href="https://telegram.me/ksdofficial84"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗞𝗦𝗗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/llKILLER_OPll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗞𝗜𝗟𝗟𝗘𝗥 𝗢𝗣%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/ll_hunter_lll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗛𝗨𝗡𝗧𝗘𝗥 𝗫𝗗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/llKILLER_OPll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗞𝗜𝗟𝗟𝗘𝗥 𝗢𝗣%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
