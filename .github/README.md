@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─˹ʀɪʏᴧ ꭙ ᴍᴜsɪᴄ˼─
+    𓆰⎯꯭꯭̽༎𝅃꯭꯭᳚𝚱꯭𝚰𝐋꯭𝐋꯭𝚵꯭𝐑𓆩꯭🜲꯭𓆪꯭𝚯꯭𝚸𝆺꯭𝅥༎ࠫ𐏓꯭᪵
 
 </h2>
 
@@ -21,11 +21,11 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-## 🖇 Generating Pyrogram String Session
+## 🖇 𝗗𝗘𝗠𝗢 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧
 
 <p>
-<a href="https://t.me/KsdStringSessionbot"><img src="https://img.shields.io/badge/KSD%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/riyaXmusicbot-Gen"><img src="https://img.shields.io/badge/RIYA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/@ROSE_X_MUSICBOT"><img src="https://img.shields.io/badge/KSD%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/@LOVEXMUSICROBOT-Gen"><img src="https://img.shields.io/badge/RIYA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 
 
 <h3 align="center">
