@@ -114,7 +114,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION", "BQGV228AnXNo28JZUA8Gj_U2NXX7Gf-D7v0wBMBtAVmfm4tchpWtUbg5XaAJqLKMPSVOEseufFuzFrbH3IIit5_IJL997Z_1UUgnAu50mSjHcuDhBLEc1r3Q8T8J506_io6JyLF1ElpuU0jer8QswWQAn2Lp4IGHM0VCaDsSserjVoh1HKwfWQnr3oWnr919gnmRwyDU8TlazWYrcT7MhtMBOLVIn7YOSZsLfMdFu-v0lrujxGWkp48zdTAonetevCBVWbkSetWnRKROhZWUh6ItGtFk5d75uWmtO1LAP_kKlz9wxc-9nsBYrUiDmv4OtSheB8ma_Ag2PKFa9uYZagsdiOhyjAAAAAGwUnlsAA")
+STRING1 = getenv("STRING_SESSION", "BQE7c0IAk4AYm8dwqVSx3_mbvfEdF31VjSLzRW_C8_hBLDnlVnjII1VZEnFWWNYczj6TYVIHCrqt61WPXl576wQUgnJk_7p26dSFwEJEQ9l-bR8VbHRFaKiJA11l67TxgXXJeX_ze6UUOtMJEBNLhuyDqvKKzs1HFwNCbunYYFjVR5Ran5TP-rDCK6jti3C2LdF4ZOQYpTUMCpmTN919uaMKh-DwZQ7n-hdskn_pnH3v7qJbIY2dh2WfxHg4-psD8oxPbN_zdETQwnDat08haMDtT_okPQXGFBrWluH_9pYqcsU6i80jfUs96ril0Olpih9HlHQSva2jRut6oKxN-s7SUbH40gAAAAHmzJyYAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/95wgq9.jpg"
+    "START_IMG_URL", "https://ibb.co/wQYFctN"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/95wgq9.jpg"
+    "PING_IMG_URL", "https://ibb.co/wQYFctN"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/8kifut.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2vq8oz.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/2vq8oz.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
+PLAYLIST_IMG_URL = "https://ibb.co/wQYFctN"
+STATS_IMG_URL = "https://ibb.co/wQYFctN"
+TELEGRAM_AUDIO_URL = "https://ibb.co/wQYFctN"
+TELEGRAM_VIDEO_URL = "https://ibb.co/wQYFctN"
+STREAM_IMG_URL = "https://ibb.co/wQYFctN"
+SOUNCLOUD_IMG_URL = "https://ibb.co/wQYFctN"
+YOUTUBE_IMG_URL = "https://ibb.co/wQYFctN"
+SPOTIFY_ARTIST_IMG_URL = "https://ibb.co/wQYFctN"
+SPOTIFY_ALBUM_IMG_URL = "https://ibb.co/wQYFctN"
+SPOTIFY_PLAYLIST_IMG_URL = "https://ibb.co/wQYFctN"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
