@@ -14,19 +14,19 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","LEGEND_HU_BSDK")
+OWNER_USERNAME = getenv("OWNER_USERNAME","MOTU_PATALU_HINDU_HAI")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Sikha_music_robot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "MOTU_PATLU_HINDU_MUSI_VCBOT)
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "SIKHA MUSIC")
+BOT_NAME = getenv("BOT_NAME" , "MOTU PATLU HINDU MUSIC BOT")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Sikha_music_robot")
+ASSUSERNAME = getenv("ASSUSERNAME" , "MOTU_PATLU_HINDU_MUSI_VCBOT)
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://theriyamusic94:f67KlgTyzr3TTutn@cluster0.lym5x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://ajaybabu69f:XF0vwerJ7QuyYJGS@cluster0.1vop5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002265875332))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002372170981)
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6238720068))
+OWNER_ID = int(getenv("OWNER_ID", 7886419837))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/VILLAIN_MUSIC_UPDATE")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/sapno_ka_saher")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MRMOTUPATLUCHAT")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MRMOTUPATLUCHAT")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION", "BQE7c0IAk4AYm8dwqVSx3_mbvfEdF31VjSLzRW_C8_hBLDnlVnjII1VZEnFWWNYczj6TYVIHCrqt61WPXl576wQUgnJk_7p26dSFwEJEQ9l-bR8VbHRFaKiJA11l67TxgXXJeX_ze6UUOtMJEBNLhuyDqvKKzs1HFwNCbunYYFjVR5Ran5TP-rDCK6jti3C2LdF4ZOQYpTUMCpmTN919uaMKh-DwZQ7n-hdskn_pnH3v7qJbIY2dh2WfxHg4-psD8oxPbN_zdETQwnDat08haMDtT_okPQXGFBrWluH_9pYqcsU6i80jfUs96ril0Olpih9HlHQSva2jRut6oKxN-s7SUbH40gAAAAHmzJyYAA")
+STRING1 = getenv("STRING_SESSION", "BQAf70YAuU0w2ihZwP47FdiDu3cM-11dllsdwZYVHHtImukb2ZkZg1KiWaZLqSdP17mrfib5hRcDx80oxsnDHF6Hxh_597rC7re5Kroml-TxfEQzYck1lFGM59qP-DP1B_YXuQz5F8gVrlZ10pUMGrCTdmAJddrXnkkF3PpzHZVivNgTR4WJzG6LGITea_YWQz9PQusqai0IFdFXekBXwY4mG_3xE9ycXOjXPWwPI7z6ssYttKho3213gbl4B-Rtp4QNvYpb8ZSEVFw49gtfnVEMOzbmr1zbJVOgV9Y5s6dA_dSFEUfu8yTJ2sIlKmXIL2Qp4ySYJfpQagfnh5mcsAdrsWLCSAAAAAGqLuGNAAskn_pnH3v7qJbIY2dh2WfxHg4-psD8oxPbN_zdETQwnDat08haMDtT_okPQXGFBrWluH_9pYqcsU6i80jfUs96ril0Olpih9HlHQSva2jRut6oKxN-s7SUbH40gAAAAHmzJyYAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://ibb.co/wQYFctN"
+    "START_IMG_URL", "https://ibb.co/bRqFn2B2"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://ibb.co/wQYFctN"
+    "PING_IMG_URL", "https://ibb.co/bRqFn2B2"
 )
-PLAYLIST_IMG_URL = "https://ibb.co/wQYFctN"
-STATS_IMG_URL = "https://ibb.co/wQYFctN"
-TELEGRAM_AUDIO_URL = "https://ibb.co/wQYFctN"
-TELEGRAM_VIDEO_URL = "https://ibb.co/wQYFctN"
-STREAM_IMG_URL = "https://ibb.co/wQYFctN"
-SOUNCLOUD_IMG_URL = "https://ibb.co/wQYFctN"
-YOUTUBE_IMG_URL = "https://ibb.co/wQYFctN"
-SPOTIFY_ARTIST_IMG_URL = "https://ibb.co/wQYFctN"
-SPOTIFY_ALBUM_IMG_URL = "https://ibb.co/wQYFctN"
-SPOTIFY_PLAYLIST_IMG_URL = "https://ibb.co/wQYFctN"
+PLAYLIST_IMG_URL = "https://ibb.co/bRqFn2B2"
+STATS_IMG_URL = "https://ibb.co/bRqFn2B2"
+TELEGRAM_AUDIO_URL = "https://ibb.co/bRqFn2B2"
+TELEGRAM_VIDEO_URL = "https://ibb.co/bRqFn2B2"
+STREAM_IMG_URL = "https://ibb.co/bRqFn2B2"
+SOUNCLOUD_IMG_URL = "https://ibb.co/bRqFn2B2"
+YOUTUBE_IMG_URL = "https://ibb.co/bRqFn2B2"
+SPOTIFY_ARTIST_IMG_URL = "https://ibb.co/bRqFn2B2"
+SPOTIFY_ALBUM_IMG_URL = "https://ibb.co/bRqFn2B2"
+SPOTIFY_PLAYLIST_IMG_URL = "https://ibb.co/bRqFn2B2"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
